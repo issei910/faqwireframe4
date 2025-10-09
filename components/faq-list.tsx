@@ -16,7 +16,7 @@ export function FaqList() {
                 <AccordionTrigger className="text-left text-card-foreground hover:no-underline py-8 text-lg font-semibold leading-relaxed">
                   {faq.question}
                 </AccordionTrigger>
-                <AccordionContent className="text-gray-800 dark:text-gray-200 pb-8 text-base leading-relaxed whitespace-pre-line font-medium">
+                <AccordionContent className="text-blue-600 dark:text-blue-400 pb-8 text-base leading-relaxed whitespace-pre-line font-medium">
                   {faq.answer}
                 </AccordionContent>
               </AccordionItem>
