@@ -13,7 +13,7 @@ export function FaqList() {
                 value={faq.id}
                 className="bg-card border border-border rounded-xl px-8 py-2 shadow-sm hover:shadow-md transition-shadow duration-200"
               >
-                <AccordionTrigger className="text-left text-card-foreground hover:no-underline py-8 text-lg font-semibold leading-relaxed">
+                <AccordionTrigger className="text-left text-card-foreground hover:no-underline py-8 text-lg font-bold leading-relaxed">
                   {faq.question}
                 </AccordionTrigger>
                 <AccordionContent className="text-blue-600 dark:text-blue-400 pb-8 text-base leading-relaxed whitespace-pre-line font-medium">
