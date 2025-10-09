@@ -56,7 +56,7 @@ export function FaqFooter() {
                 <a href="https://kaimon.mn/#/size-and-price">Хэмжээ ба үнэ</a>
               </Button>
             </div>
-            <p className="text-sm text-muted-foreground">© 2024 Kaimon. Бүх эрх хуулиар хамгаалагдсан.</p>
+            <p className="text-sm text-muted-foreground">© 2025 Kaimon. Бүх эрх хуулиар хамгаалагдсан.</p>
           </div>
         </div>
       </div>
